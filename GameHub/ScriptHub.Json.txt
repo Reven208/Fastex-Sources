@@ -41,8 +41,15 @@
         "Description": "Aimbot, Esp, WallHack And More!",
         "Picture": "https://tr.rbxcdn.com/b329b351f56e31a2dd79dee912fc651a/150/150/Image/Jpeg",
         "Script": "https://raw.githubusercontent.com/Bluntman420n/fucns/main/FUCKYOUCUNT.BLUNT"
-    }
+    },
     
+     { 
+    
+        "Game": "BedWars"
+        "Description": "Aimbot, Esp, killaura and more!",
+        "Picture": "https://rscripts.net/images/1650937557_Screenshot%202022-04-25%20214214_16x9.webp",
+        "Script": "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
+    }
     
  ]
     
