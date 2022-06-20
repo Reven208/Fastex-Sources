@@ -56,7 +56,7 @@
         "Game": "[¡CAZA!] Sonic Speed Simulator",
         "Description": "hili dogs, Esp, And More!",
         "Picture": "https://tr.rbxcdn.com/e4b9926292a8f340b5a3bfd5b53682f0/512/512/Image/Jpeg",
-        "Script": "https://raw.githubusercontent.com/kkeyy-hash/roblox/main/SonicSpeedSimulator.lua"
+        "Script": "https://pastebin.com/raw/328GiWH9"
     }
     
  ]
